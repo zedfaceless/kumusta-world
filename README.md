@@ -16,7 +16,7 @@ environment works end to end and to practice the full publish
 workflow (code, documentation, video, and repository) that I will
 use for future projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://www.loom.com/share/457ad5e730714d598dca269e6866c882
 
 # Development Environment
 
